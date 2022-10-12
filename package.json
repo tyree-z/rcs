@@ -1,0 +1,19 @@
+{
+  "name": "rcs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyree-z/rcs.git"
+  },
+  "author": "Tyree Zacharopoulos <tyree@tyree.ca>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tyree-z/rcs/issues"
+  },
+  "homepage": "https://github.com/tyree-z/rcs#readme"
+}
